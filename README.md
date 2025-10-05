@@ -13,7 +13,7 @@ Gemini Powered Car Manual and Automobiles Chatbot is a Streamlit application tha
    - Clone the repository:
 
      ```bash
-     git clone https://github.com/AJAmit17/automobile-chatbot.git
+     git clone https://github.com/bhagyawan18/automobile-chatbot.git
      cd automobile-chatbot
      ```
 
